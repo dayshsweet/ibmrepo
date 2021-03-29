@@ -1,2 +1,2 @@
-intro = 'Hello World'
-print(intro)
+intr = 'Hello World'
+print(intr)
